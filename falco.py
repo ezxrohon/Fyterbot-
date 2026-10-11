@@ -540,11 +540,11 @@ def start_nc_attack(chat_id, attack_type, title_maker_func):
 @only_sudo
 async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = smallcaps("""
-╔═══━━━─── 🌙 𝐙𝐱𝐘𝐧~||~𓆩 𝐅𝐚𝐥𝐜𝐨𝐧 𓆪 𝐔𝐋𝐓𝐑𝐀 𝐕𝟑.𝟎 ⚡ ───━━━═══╗
+╔═══━━━─── 🌙 ʀᴏʜ፝֟͝ꫝɴ 𓆪 𝐔𝐋𝐓𝐑𝐀 𝐕𝟑.𝟎 ⚡ ───━━━═══╗
               𓆩 𝐁𝐎𝐓 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 𝐏𝐀𝐍𝐄𝐋 𓆪
 ╚═══━━━────────────────────━━━═══╝
 
-        ⚡ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐙𝐗𝐘𝐍 || 𓆩 𝐅𝐚𝐥𝐜𝐨𝐧 𓆪 ⚡
+        ⚡ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘  𓆩 aʀᴏʜ፝֟͝ꫝɴ 𓆪 ⚡
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ╭━━〔 ⚔️ 𝐍𝐎𝐑𝐓𝐇 〕━━╮
@@ -1194,7 +1194,7 @@ async def gameover(update, context):
     "<b>🕒 IST Time:</b> <code>{now_ist}</code>\n"
     "<b>⏱️ Uptime:</b> <code>{uptime_str}</code>\n"
     "\n"
-    "<code>{target} 𑁍ࠬܓ{heart} ᴛᴇʀɪ ᴍᴀ ᴋɪ ᴄʜʜᴏᴏᴛ ᴍᴇɪɴ ʙᴏᴍʙ 𝜗𝜚⋆₊ 𓆩 𝐅𝐚𝐥𝐜𝐨𝐧 𓆪 ᴋᴀ ʟᴀᴜᴅᴀ ˚₊· ‌➳❥</code>\n"
+    "<code>{target} 𑁍ࠬܓ{heart} ᴛᴇʀɪ ᴍᴀ ᴋɪ ᴄʜʜᴏᴏᴛ ᴍᴇɪɴ ʙᴏᴍʙ 𝜗𝜚⋆₊ 𓆩 ʀᴏʜ፝֟͝ꫝɴ𓆪 ᴋᴀ ʟᴀᴜᴅᴀ ˚₊· ‌➳❥</code>\n"
     "\n"
     "<b>⚠️ 𝙆𝑴𝑱𝑶𝑹 𝑲𝑰𝑫𝑬 𝘈𝑩 𝑩𝑯𝑨𝑾 𝑵𝒀𝒀 𝑴𝑰𝑳𝑬𝑮𝑨 ⚠️</b>"
 )
