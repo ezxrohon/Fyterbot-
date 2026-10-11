@@ -78,20 +78,11 @@ class ConnectionPool:
 
 # ==================== CONFIG ====================
 TOKENS = [
-"8894416796:AAEQ3JhpmV7EEGGOzaGHnyEvmQ8bMlnUJEA",
-"8858345732:AAGUjfMPQHt-45GtAcmqvgkgQDWHSk1ZfJ4",
-"8418747358:AAGlrqvAQaBng5AIOVEDrHev9cJ_kvw_5NM",
-"8986571582:AAHa5cEa4AaveJZWY6zBSq7vDmrEAEJms6s",
-"8857401754:AAHUBPJIL0hcZWmoJ6UIffe9nyq2780al3s",
-"8972812041:AAGUjzO_d4duw2j4ttAEjlhj0pf5YJ3mhn4",
-"8985903306:AAFqjvwVicKItyw0ruofoN3cS68ZFM7zdEk",
-"8901879085:AAFuEpcPjIvVz-IxSdimccrrV8vf7CgVkbk",
-"8901879085:AAFuEpcPjIvVz-IxSdimccrrV8vf7CgVkbk",
-"8813510390:AAHuBHzFSmx3gf_GuMy3e5X_X4NxA4ob8Ug",
-"8535541580:AAH8v5qqiLfswUPjZBk910QsHqx4uRpJBQg"
+"8702868220:AAH_LNkVly9Oh7KyZbzkPPZL9nrbLEeeC1I",
+"8856472785:AAHvWpEIO7OpVv2jTLfPXFaILvI8dCEQSo4"
 ]
 
-OWNER_ID = 8915866692
+OWNER_ID = 8659558306
 SUDO_FILE = "sudo_users.json"
 PFP_FOLDER = "pfps"
 TARGET_PHOTO_FOLDER = "target_photos"
@@ -213,9 +204,9 @@ NC2_WORD = "🌎Ҳҷ🪐" * 80
 NC3_WORD = "Ҳҷ💟Ҳҷ✨Ҳҷ💎Ҳҷ🍥Ҳҷ🧊Ҳҷ🕊️" * 70 + " TERI MA RAND"
 NC4_WORD = "🚫🚫😂🚫💙💙💙🚫🚫🚫💙💙💙😂🚫 " * 20 + "RAND KE BACHHE"
 
-ZXYNNC_WORD = "ZXYN KO BAAP BOL RUNDYKE BACCHE"
-FALCONNC_WORD = "FALCON KO BAAP BOL RUNDYK BACCHE"
-CODEZXYNNC_WORD = "CODEZXYN KO BAAP BOL RUNDYK BACCHE"
+ROHAN_WORD = " ʀᴏʜ፝֟͝ꫝɴ KO BAAP BOL RUNDYKE BACCHE"
+ROHAN_WORD = "ʀᴏʜ፝֟͝ꫝɴ KO BAAP BOL RUNDYK BACCHE"
+ROHAN_WORD = "ʀᴏʜ፝֟͝ꫝɴ KO BAAP BOL RUNDYK BACCHE"
 
 # ==================== SLIDE ABUSES ====================
 SLIDE1_ABUSES = [
@@ -1196,7 +1187,7 @@ async def gameover(update, context):
     heart = random_emoji(ALL_HEART_EMOJIS)
 
     msg = f"""
-    "<b>🔥 𝙂𝘼𝙈𝙀 𝙊𝓥𝑬𝑹 𝑩𝒀 𓆩 𝐅𝐚𝐥𝐜𝐨𝐧 𓆪🔥</b>\n"
+    "<b>🔥 𝙂𝘼𝙈𝙀 𝙊𝓥𝑬𝑹 𝑩𝒀 𓆩 ʀᴏʜ፝֟͝ꫝɴ𓆪🔥</b>\n"
     "\n"
     "<b>🎯 Target:</b> <code>{target}</code>\n"
     "<b>📛 Group:</b> <code>{group_title}</code>\n"
